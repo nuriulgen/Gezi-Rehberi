@@ -1,0 +1,45 @@
+{
+    "settings": {
+        "title": "Ayarlar",
+        "subtitle1": "Dil",
+        "subtitle2": "Gizlilik",
+        "subtitle3": "Yardım ve Destek",
+        "subtitle4": "Arkadaşlarını Davet Et",
+        "subtitle5": "Hakkında"
+    },
+    "profil": {
+        "title": "Profil",
+        "subtitle1": "Takip",
+        "subtitle2": "Takiçiler",
+        "subtitle3": "Takip Et",
+        "favorites_detail" : {
+            "subtitle1": "Yol Tarifi",
+            "subtitle2": "Kaydet",
+            "subtitle3": "Yorum Yap",
+            "subtitle4": "Paylaş"
+        },
+        "pop_menu" : {
+            "subtitle1": "Ayarlar",
+            "subtitle2": "Karanlık Mod"
+        }
+    },
+    "login": {
+        "email": "Email",
+        "password": "Şifre",
+        "forgotText": "Şifremi Unuttum",
+        "login": "Giriş Yap",
+        "dontAccount": "Henüz bir hesabınız yoksa kaydolun",
+        "language": "Dil Seçiniz :",
+        "ok": "Tamam"
+    },
+    "signUp": {
+        "title" : "Hesab Oluştur",
+        "name": "Adınızı giriniz",
+        "surname": "Soyadınızı giriniz",
+        "email": "Emai adresinizi giriniz",
+        "password": "Şifrenizi giriniz",
+        "reEnterPassword": "Şifrenizi tekrar giriniz",
+        "button" : "Kayıt Ol",
+        "textButton" : "Başarıyla kayıt oldunuz.Giriş yapınız."
+    }
+}

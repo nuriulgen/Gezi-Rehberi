@@ -1,0 +1,68 @@
+name: flutter_widgets
+description: Gezi Rehberi.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  splash_screen_view: ^3.0.0
+  font_awesome_flutter: ^9.0.2
+  salomon_bottom_bar: ^3.3.0
+  email_validator:
+  image_picker: ^0.7.4
+  animated_theme_switcher: ^2.0.1-nullsafety.0
+  theme_provider: ^0.5.0
+  shared_preferences: ^2.0.5
+  path_provider: ^2.0.1
+  curved_navigation_bar: ^1.0.3
+  wiredash: ^0.7.0+1
+  easy_localization: ^3.0.0
+  google_maps_flutter: ^2.1.3
+  geolocator: ^8.2.0
+  location: ^4.2.0
+  http: ^0.13.4
+  flutter_dotenv: ^5.0.2
+  like_button: ^2.0.4
+  dio: ^4.0.6
+  flutter_polyline_points: ^1.0.0
+  get: ^4.6.5
+  shimmer_animation: ^2.1.0
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/konum.png
+    - assets/images/crosshairs-gps.png
+    - assets/lang/
+    - assets/gizlilk.txt
+    - .env
+
+
+  fonts:
+    - family: NunitoSans
+      fonts:
+        - asset: assets/fonts/NunitoSans-Black.ttf
+        - asset: assets/fonts/NunitoSans-Bold.ttf
+        - asset: assets/fonts/NunitoSans-Light.ttf
+        - asset: assets/fonts/NunitoSans-Regular.ttf
+        - asset: assets/fonts/NunitoSans-SemiBold.ttf
+        - asset: assets/fonts/NunitoSans-ExtraLight.ttf
+        - asset: assets/fonts/NunitoSans-ExtraBold.ttf
+

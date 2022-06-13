@@ -1,0 +1,97 @@
+                        Gizlilik Politikası
+                        =============
+Bu Gizlilik Politikası, Hizmeti kullandığınızda
+bilgilerinizin toplanması, kullanılması ve ifşa edilmesine ilişkin politikalarımızı
+ve prosedürlerimizi açıklar ve Size gizlilik haklarınızı ve yasaların Sizi nasıl
+koruduğunu anlatır.Kişisel verilerinizi Hizmeti sağlamak ve iyileştirmek için
+kullanırız. Hizmeti kullanarak, bu Gizlilik Politikasına uygun olarak bilgilerin
+toplanmasını ve kullanılmasını kabul edersiniz.
+
+Kişisel Verilerinizi Toplama ve Kullanma
+Toplanan Veri Türleri:
+
+Kişisel veri:
+Hizmetimizi kullanırken, Sizden, Sizinle iletişim kurmak veya sizi tanımlamak için
+kullanılabilecek belirli kişisel olarak tanımlanabilir bilgileri sağlamanızı isteyebiliriz.
+Kişisel olarak tanımlanabilir bilgiler aşağıdakileri
+içerebilir, ancak bunlarla sınırlı değildir:
+    • Ad ve soyad
+    • Kullanım verisi
+
+Kullanım verisi:
+
+Kullanım Verileri, Hizmet kullanılırken otomatik olarak toplanır.
+Kullanım Verileri, Cihazınızın İnternet Protokol adresi (örn. IPadresi), tarayıcı türü,
+tarayıcı sürümü, ziyaret ettiğiniz Hizmetimizin sayfaları, ziyaretinizin saati ve tarihi,
+bu sayfalarda geçirilen süre,benzersiz cihaz gibi bilgileri içerebilir.Tanımlayıcılar ve diğer teşhis verileri.
+Hizmete bir mobil cihaz aracılığıyla veya aracılığıyla eriştiğinizde, kullandığınız mobil cihazın türü,
+mobil cihazınızın benzersiz kimliği,mobil cihazınızın IP adresi, cep telefonunuz dahil ancak bunlarla
+sınırlı olmamak üzere belirli bilgileri otomatik olarak toplayabiliriz.işletim sistemi, kullandığınız
+mobil İnternet tarayıCIsının türü,benzersiz cihaz tanımlayıcıları ve diğer tanılama verileri.
+Hizmetimizi her ziyaret ettiğinizde veya bir mobil cihaz aracılığıyla veya aracılığıyla hizmete eriştiğinizde
+tarayıcınızın gönderdiği bilgileri de toplayabiliriz.
+
+Uygulamayı Kullanırken Toplanan Bilgiler:
+
+Uygulamamızı kullanırken, Uygulamamızın özelliklerini sağlamak
+için önceden izninizle şunları toplayabiliriz:
+
+• Konumunuzla ilgili bilgiler
+Bu bilgileri Hizmetimizin özelliklerini sağlamak, Hizmetimizi
+geliştirmek ve özelleştirmek için kullanırız. Bilgiler Şirketin
+sunucularına ve/veya bir Hizmet Sağlayıcinın sunucusuna
+yüklenebilir veya basitçe Sizin cihazınızda saklanabilir.
+Bu bilgilere erişimi istediğiniz zaman Cihaz ayarlarından
+etkinleştirebilir veya devre dışı bırakabilirsiniz.
+
+Kişisel Verilerinizin Saklanması:
+
+Şirket, Kişisel Verilerinizi yalnızca bu Gizlilik Politikasında belirtilen
+amaçlar için gerekli olduğu sürece saklayacaktır. Kişisel Verilerinizi,
+yasal yükümlülüklerimize uymak (örneğin, geçerli yasalara uymak
+için verilerinizi tutmamız gerekiyorsa), anlaşmazlıkları çözmek ve
+yasal anlaşmalarımızı ve politikalarımızı uygulamak için gerekli
+olduğu ölçüde saklayacak ve kullanacağız.
+Şirket ayrıca Kullanım Verilerini dahili analiz amacıyla saklayacaktır.
+Kullanım Verileri, bu verilerin güvenliğini güçlendirmek veya
+Hizmetimizin işlevselliğini geliştirmek için kullanılması veya yasal
+olarak bu verileri daha uzun süreler boyunca tutmak zorunda
+olmamız dışında, genellikle daha kısa bir süre boyunca saklanır.
+
+Kişisel Verilerinizin Güvenliği:
+
+Kişisel Verilerinizin güvenliği Bizim için önemlidir, ancak İnternet
+üzerinden hiçbir aktarım yönteminin veya elektronik depolama
+yönteminin %100 güvenli olmadığını unutmayın. Kişisel Verilerinizi
+korumak için ticari olarak kabul edilebilir araçları kullanmaya
+çabalarken, bunların mutlak güvenliğini garanti edemeyiz.
+
+Çocukların Gizliliği:
+
+Hizmetimiz 13 yaşın altındaki hiç kimseye hitap etmez. 13 yaşın
+altındaki hiç kimseden bilerek kişisel olarak tanımlanabilir bilgiler
+toplamıyoruz. Bir ebeveyn veya vasi iseniz ve Çocuğunuzun Bize
+Kişisel Veriler sağladığının farkındaysanız, lütfen Bize Ulaşın.
+Ebeveyn izni doğrulaması olmadan 13 yaşın altındaki herhangi
+birinden Kişisel Veri topladığımızı fark edersek, bu bilgileri
+sunucularımızdan kaldırmak için adımlar atarız.
+Bilgilerinizi işlemek için yasal dayanak olarak rızaya güvenmemiz
+gerekiyorsa ve ülkeniz bir ebeveynden onay gerektiriyorsa, bu
+bilgileri toplamadan ve kullanmadan önce ebeveyninizin onayını
+isteyebiliriz.
+
+Bu Gizlilik Politikasındaki Değişiklikler:
+
+Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Yeni Gizlilik
+Politikasını bu sayfada yayınlayarak herhangi bir değişikliği Size
+bildireceğiz.Değişikliğin yürürlüğe girmesinden ve bu Gizlilik Politikasının üst
+kısmındaki "Son güncelleme" tarihini güncellemeden önce Size e-
+posta velveya Hizmetimizle ilgili belirgin bir bildirim yoluyla bilgi
+vereceğiz.Herhangi bir değişiklik için bu Gizlilik Politikasını periyodik olarak
+gözden geçirmeniz tavsiye edilir. Bu Gizlilik Politikasında yapılan
+değişiklikler, bu sayfada yayınlandıklarında geçerlidir.
+
+Bize Ulaşın
+Bu Gizlilik Politikası ile ilgili herhangi bir sorunuz varsa, bizimle
+iletişime geçebilirsiniz:
+  • E-posta ile: gezi_rehberi@gmail.com

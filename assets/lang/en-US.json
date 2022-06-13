@@ -1,0 +1,46 @@
+{
+    "settings": {
+        "title": "Settings",
+        "subtitle1": "Language",
+        "subtitle2": "Privacy",
+        "subtitle3": "Help & Support",
+        "subtitle4": "Invite a Friend",
+        "subtitle5": "About"
+    },
+    "profil": {
+        "title": "Profil",
+        "subtitle1": "Following",
+        "subtitle2": "Followers",
+        "subtitle3": "Follow",
+        "favorites_detail" : {
+            "subtitle1": "Directions",
+            "subtitle2": "Save",
+            "subtitle3": "Comment",
+            "subtitle4": "Share"
+        },
+        "pop_menu" : {
+            "subtitle1": "Settings",
+            "subtitle2": "Dark Mode"
+        }
+    },
+    "login": {
+        "email": "Email",
+        "password": "Password",
+        "forgotText": "Forgot Password",
+        "login": "Login",
+        "dontAccount": "Don't have account",
+        "language": "Select Language :",
+        "ok": "Ok"
+    },
+    "signUp": {
+        "title" : "Create Account",
+        "name": "Enter your name",
+        "surname": "Enter your surname",
+        "email": "Enter your email address",
+        "password": "Enter your password",
+        "reEnterPassword": "Enter your password again",
+        "button" : "Sign Up",
+        "textButton" : "You have successfully registered. Login"
+
+    }
+}
